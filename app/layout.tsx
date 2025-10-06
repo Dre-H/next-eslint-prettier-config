@@ -17,9 +17,9 @@ const spaceGroteskFont = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Dev Overflow",
+  title: "ESLint & Prettier Config",
   description:
-    "A community-driven platform for asking and answering programming questions. Get help, share knowledge, and collaborate with developers from around the world. Explore topics in web development, mobile app development, algorithms, data structures, and more.",
+    "A public repository containing standardized ESLint and Prettier configurations for consistent code formatting and linting across projects.",
   icons: {
     icon: "/images/site-logo.svg",
   },
@@ -32,7 +32,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${interFont.className} ${spaceGroteskFont.variable}`}>
+      <body
+        className={`${interFont.variable} ${spaceGroteskFont.variable} ${interFont.className}`}
+      >
         {children}
       </body>
     </html>
