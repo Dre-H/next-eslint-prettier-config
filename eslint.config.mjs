@@ -22,6 +22,7 @@ const eslintConfig = [
       ".next/**/*",
       "node_modules/**/*",
       "scripts/**/*",
+      "next-env.d.ts",
     ],
   },
   ...compat.extends(
